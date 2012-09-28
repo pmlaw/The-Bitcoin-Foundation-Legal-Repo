@@ -100,7 +100,7 @@ Section 4.3	Special Meetings: Special meetings of members shall be held upon cal
 
 (b)  The Chairman of the Board; or 
 
-(c)  Members holding five percent (15%) or more of the Corporation's voting power by a written demand signed, dated, and delivered to the Secretary. 
+(c)  Members holding fifteen percent (15%) or more of the Corporation's voting power by a written demand signed, dated, and delivered to the Secretary. 
 
 Notice of a special meeting shall be given within thirty (30) days following the date written demand is delivered to the Secretary, in accordance with Section 4.4 below. Special meetings may be held in any manner permitted by law.
 
