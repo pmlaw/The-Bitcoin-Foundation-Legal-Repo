@@ -46,7 +46,7 @@ v. Patrick Murck, Principal at Engage Legal, PLLC residing or doing business in 
 
 vi. Mark Karpeles, CEO of MtGox.com and residing or doing business in Tokyo, Japan.
 
-vii. Satoshi Nakamoto, at satoshin@gmx.com, author of the white paper “Bitcoin: A Peer-to-Peer Electronic Cash System” published on http://bitcoin.org and owner of the PGP Public Key with fingerprint: 5EC948A1.
+vii. Satoshi Nakamoto, at satoshin@gmx.com, author of the white paper “Bitcoin: A Peer-to-Peer Electronic Cash System” published on http://bitcoin.org and owner of the PGP Public Key with fingerprint: DE4E FCA3 E1AB 9E41 CE96  CECB 18C0 9E86 5EC9 48A1.
 
 (b) Industry Members. The Industry Members of the Corporation shall be corporate entities doing business in, servicing or supporting the Bitcoin system or in a similar distributed-digital currency system. The Board of Directors, in its sole discretion, may create categories of Industry Members with special rights, privileges, or duties; however, no such categories shall have any rights, privileges, or duties inconsistent with these Bylaws.
 
