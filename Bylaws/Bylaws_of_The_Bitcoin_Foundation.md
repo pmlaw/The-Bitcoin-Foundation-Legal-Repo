@@ -8,7 +8,7 @@ THE BITCOIN FOUNDATION, INC.
 
 Effective as of July 23, 2012
 
-Amended as of May 17, 2013
+Amended or revised as of May 17, 2013
 
 ARTICLE I - OFFICES
 
