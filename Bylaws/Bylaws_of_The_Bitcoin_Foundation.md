@@ -18,6 +18,8 @@ ARTICLE II - PURPOSES
 
 Section 2.1	Purposes: The Corporation is an association of persons having a common business interest, the purpose of which is to promote that common business interest and to engage in any lawful activity permitted under section 501(c)(6) of the Internal Revenue Code, or the corresponding section of any future federal tax code. More specifically, the purposes of the Corporation include, but are not limited to, promotion, protection, and standardization of distributed-digital currency and transactions systems including the Bitcoin system as well as similar and related technologies.
 
+Section 2.2	The Corporation shall promote and protect both the decentralized, distributed and private nature of the Bitcoin distributed-digital currency and transaction system as well as individual choice, participation and financial privacy when using such systems. The Corporation shall further require that any distributed-digital currency falling within the ambit of the Corporation's purpose be decentralized, distributed and private and that it support individual choice, participation and financial privacy.
+
 ARTICLE III - MEMBERSHIP
 
 Section 3.1	Membership Classes: The Corporation will have three classes of membership: 
