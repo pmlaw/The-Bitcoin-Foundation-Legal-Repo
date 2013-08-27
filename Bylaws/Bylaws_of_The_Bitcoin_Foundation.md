@@ -142,7 +142,7 @@ Section 5.3	Composition of Board of Directors Terms: All directors serving on th
 
 (a) Founding Directors: The Founding Member’s shall elect one (1) director or such fewer number as equals the total number of Founding Members. All directors elected by Founding Members shall hereafter be known as “Founding Directors”. Each Founding Director shall be deemed to have been duly elected upon receipt by the Chairman of the Board of a written ballot from the Founding Members. The initial Founding Director shall be Peter Vessenes, CEO of CoinLab, Inc.
 
-(b) Industry Directors: Industry Members, voting as a class, shall elect three (3) directors or such fewer number as equals the total number of Industry Members. All directors elected by Industry Members shall be known as "Industry Directors." Each Industry Member shall be entitled to nominate a single candidate in any election of Industry Directors. Industry Directors may be elected: (i) at a meeting of the Industry Members; (ii) by written ballot delivered to the Industry Members; or (iii) in some other manner authorized by law or these Bylaws. The initial Industry Directors shall be Charles Shrem, CEO of BitInstant LLC and Mark Karpeles, CEO of MtGox.com. 
+NEEDS REVISION (b) Industry Directors: Industry Members, voting as a class, shall elect three (3) directors or such fewer number as equals the total number of Industry Members. All directors elected by Industry Members shall be known as "Industry Directors." Each Industry Member shall be entitled to nominate a single candidate in any election of Industry Directors. Industry Directors may be elected: (i) at a meeting of the Industry Members; (ii) by written ballot delivered to the Industry Members; or (iii) in some other manner authorized by law or these Bylaws. The initial Industry Directors shall be Charles Shrem, CEO of BitInstant LLC and Mark Karpeles, CEO of MtGox.com. 
 
 (c) Individual Directors: Individual Members of the Corporation, voting as a class, shall elect three (3) directors known as "Individual Directors". Each Individual Member shall be entitled to nominate a single candidate in any election of an Individual Director and such directors shall be elected: (i) at a meeting of the members; (ii) by written ballot delivered to the members; or (iii) in some other manner authorized by law or these Bylaws. The initial Individual Directors shall be Gavin Andresen, Bitcoin Developer and Jon Matonis, Editor of The Monetary Future.
 
@@ -365,7 +365,7 @@ Section 9.2	Bylaw Amendments: To the fullest extent permitted by law, the author
 Section 9.3	Dissolution: The Corporation may be dissolved upon the approval of all of the directors then in office without the vote or consent of any member(s) or third parties. Any distribution of the assets of this corporation shall be made in a manner consistent with the tax status of the Corporation at the time of such dissolution.
 
 
-SCHEDULE A
+NEEDS REVISION - SCHEDULE A
 
 Membership Dues Schedule (effective July 23, 2012)
 
