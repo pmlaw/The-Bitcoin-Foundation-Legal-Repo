@@ -8,6 +8,8 @@ THE BITCOIN FOUNDATION, INC.
 
 Effective as of July 23, 2012
 
+Amended or revised as of May 17, 2013
+
 ARTICLE I - OFFICES
 
 Section 1.1	Principal Office: The Corporation's principal office shall be located in the District of Columbia. The Board of Directors shall have full power and authority to change the location of the Corporation's principal office. 
