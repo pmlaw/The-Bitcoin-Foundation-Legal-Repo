@@ -369,30 +369,15 @@ Section 9.3	Dissolution: The Corporation may be dissolved upon the approval of a
 
 SCHEDULE A
 
-Membership Dues Schedule (effective July 23, 2012)
+Membership Dues Schedule (effective May 30, 2014)
 
 | MEMBERSHIP CLASS | MEMBERSHIP DUES
-| ---------- | ---------- |
-| Founding Members | 10BTC per annum
-| Industry Members (Silver) | 500BTC per annum
-| Industry Members (Gold) | 2,500BTC per annum
-| Industry Members (Platinum) | 10,000BTC per annum
-| Individual Members | 2.5BTC per annum
-| Individual Members  (Lifetime Membership) | 25BTC one-time
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+| --------------------------------- | ----------------- |
+| Founding Members                  | 10BTC per annum
+| Industry Members (Silver [small]) | 1.8BTC per annum
+| Industry Members (Silver [medium])| 4.4BTC per annum
+| Industry Members (Silver [large]) | 8.8BTC per annum
+| Industry Members (Gold)           | 43.9BTC per annum
+| Industry Members (Platinum)       | 175.7BTC per annum
+| Individual Members (Annual)       | 0.06BTC per annum
+| Individual Members (Lifetime)     | 0.54BTC one-time
