@@ -112,7 +112,11 @@ Section 4.5	Adjourned Meetings: Any annual or special members' meeting, whether 
 
 Section 4.6	Proxies: Every member entitled to vote shall have the right to do so in person, or by one or more agents authorized by a written proxy executed by such person or their duly authorized agent and filed with the Corporation's Secretary. However, no such proxy shall be valid after eleven (11) months from the date of its execution, unless the person executing it specifies therein a length of time for which the proxy shall continue in force. A proxy is effective upon receipt by the Secretary or other officer or agent authorized to tabulate votes. A proxy must be received prior to the closing of a vote in order to be effective.
 
+<<<<<<< HEAD
 Section 4.7	Quorum: The votes represented in person or by proxy at a meeting of members shall constitute a quorum for the transaction of business if the total is equal to or greater than one-half of all possible member votes. Unless provided herein, if a quorum is present in person or by proxy, then any action approved by a majority of the members so present shall be the act of the members. In any election of directors, the number of approvals required for acts of members shall be reduced by one for each ballot indicating that the authority to vote for the election of directors has been withheld.
+=======
+Section 4.7	Quorum: The votes represented in person or by proxy at a meeting of members shall constitute a quorum for the transaction of business if the total is equal to or greater than two-thirds of all possible member votes. Unless provided herein, if a quorum is present in person or by proxy, then any action approved by a majority of the members so present shall be the act of the members.
+>>>>>>> parent of a9d4547... Reduce quorum for membership votes from 2/3 to 1/2
 
 Section 4.8	Voting: Each member is entitled to one vote on each matter submitted to a vote of the members of the member's membership class. Voting may be by voice vote, written vote or through electronic means as directed by the Executive Director. Cumulative voting for the election of directors or otherwise shall not be authorized. 
 
