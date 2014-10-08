@@ -26,9 +26,11 @@ Section 3.1	Membership Classes: The Corporation will have three classes of membe
 
 (a) Founding Members; 
 
-(b) Industry Members; and 
+(b) Industry Members; 
 
-(c) Individual Members. 
+(c) Individual Members; and
+
+(d) Chapters.
 
 The term "member" may be used to refer generically to a member in any class.
 
@@ -54,13 +56,17 @@ vii. Satoshi Nakamoto, at satoshin@gmx.com, author of the white paper “Bitcoin
 
 (c) Individual Members. The Individual Members shall be natural persons transacting in, promoting or otherwise contributing to the Bitcoin system or other similar distribute-digital currency system.
 
-Section 3.3	Affiliates, Additional Rights & Limitations on Voting Rights of Members:
+(d) Chapters. Chapters shall be entities granted chapter status by the Corporation in it's International Chapter Program to help further and advance the Corporation's purpose within a specified geographic location.
+
+Section 3.3	Affiliates, Additional Rights & Limitations on Voting Rights of Members, Chapters of the Corporation's International Chapter Program are not "Affiliates" as defined in this section.:
 
 (a) Affiliates. The Board of Directors may establish one or more classes of individuals or entities associated with the Corporation. Such individuals or entities shall be referred to as "Advisors," "Affiliates," "Associates," "Contributors," or any other title that the Board of Directors may deem appropriate (collectively, the "Affiliates"). No class or classes of Affiliates shall have the right or be entitled to vote: (i) in the election of any directors; (ii) on a sale, lease, exchange, or other disposition of all or substantially all of the assets of the Corporation; (iii) on a merger of the Corporation; (iv) on a dissolution or reorganization of the Corporation; (v) on amendments to the Corporation's Articles of Incorporation (the "Articles") or Bylaws; or (vi) on any other action otherwise requiring the vote of members. Further, Affiliates shall not be or have any of the rights and privileges of voting members as contemplated by section 29-404.10 of the District of Columbia Official Code, or any corresponding section of any future official District of Columbia code.
 
 (b) Additional Rights and Privileges. The Board of Directors may issue resolutions establishing additional rights, privileges and duties corresponding to each class of membership and Affiliates. However, any such rights, privileges, and duties shall be consistent with the Articles and these Bylaws.
 
 (c) Limitations on Voting Rights of Members. Except as otherwise provided for by any Board of Directors resolution, no member shall have the right or be entitled to vote: (i) on a sale, lease, exchange, or other disposition of all or substantially all of the Corporation's assets; (ii) on a merger of the Corporation; (iii) on a dissolution or reorganization of the Corporation; or (iv) on amendments to the Corporation's Articles or Bylaws.
+
+(d) Chapter Directors: The Chapter Members shall elect one (1) director or such fewer number as equals the total number of Chapter Members to be known as a "Chapter Director". Chapter Directors may be elected (i) at a meeting of the Chapter Members; (ii) by written ballot delivered to the Chapter Members; or (iii) in some other manner authorized by law or these Bylaws. Each Chapter Director shall be deemed to have been duly elected upon receipt by the Chairman of the Board of a written ballot from the Chapter Members.
 
 Section 3.4	Admission: Except as otherwise provided for by any Board of Directors resolution, admission of members shall be made by the Executive Director upon a determination by the Executive Director that the member seeking admission meets the qualifications established for membership set forth in these Bylaws.
 
@@ -142,15 +148,17 @@ Section 5.2	Number of Directors: The minimum authorized number of directors is f
 
 Section 5.3	Composition of Board of Directors Terms: All directors serving on the Board of Directors shall be selected in the manner set forth in this Section 5.3.
 
-(a) Founding Directors: Until December 31, 2014, The Founding Members shall elect one (1) director or such fewer number as equals the total number of Founding Members. All directors elected by Founding Members shall hereafter be known as “Founding Directors”. Each Founding Director shall be deemed to have been duly elected upon receipt by the Chairman of the Board of a written ballot from the Founding Members. The initial Founding Director shall be Peter Vessenes, CEO of CoinLab, Inc. After December 31, 2014 there shall be no Founding Directors. After December 31, 2014 there shall be no Founding Director nor any Founding Member elections for a Founding Director.
+(a) Founding Directors: The Founding Member’s shall elect one (1) director or such fewer number as equals the total number of Founding Members. All directors elected by Founding Members shall hereafter be known as “Founding Directors”. Each Founding Director shall be deemed to have been duly elected upon receipt by the Chairman of the Board of a written ballot from the Founding Members. The initial Founding Director shall be Peter Vessenes, CEO of CoinLab, Inc.
 
 (b) Industry Directors: Industry Members, voting as a class, shall elect three (3) directors or such fewer number as equals the total number of Industry Members. All directors elected by Industry Members shall be known as "Industry Directors." Each Industry Member shall be entitled to nominate a single candidate in any election of Industry Directors. Industry Directors may be elected: (i) at a meeting of the Industry Members; (ii) by written ballot delivered to the Industry Members; or (iii) in some other manner authorized by law or these Bylaws. The initial Industry Directors shall be Charles Shrem, CEO of BitInstant LLC and Mark Karpeles, CEO of MtGox.com. 
 
 (c) Individual Directors: Individual Members of the Corporation, voting as a class, shall elect three (3) directors known as "Individual Directors". Each Individual Member shall be entitled to nominate a single candidate in any election of an Individual Director and such directors shall be elected: (i) at a meeting of the members; (ii) by written ballot delivered to the members; or (iii) in some other manner authorized by law or these Bylaws. The initial Individual Directors shall be Gavin Andresen, Bitcoin Developer and Jon Matonis, Editor of The Monetary Future.
 
-(d) Observers: Each director shall have the right to designate a single observer to attend Board of Directors meetings when such director is unable to be present. However, the director shall provide prior notice to the Chairman of the Board and the Chairman approves the request. Such a request shall not be unreasonably denied. An observer attending in place of a director shall have the right to fully participate in the general session, but may not vote on or put forth any motion. Notwithstanding the foregoing, an Observer may vote by proxy if approved by the Board in advance.
+(d) Chapter Directors: The Chapter Members shall elect one (1) director or such fewer number as equals the total number of Chapter Members to be known as a "Chapter Director". Chapter Directors may be elected (i) at a meeting of the Chapter Members; (ii) by written ballot delivered to the Chapter Members; or (iii) in some other manner authorized by law or these Bylaws. Each Chapter Director shall be deemed to have been duly elected upon receipt by the Chairman of the Board of a written ballot from the Chapter Members.
 
-(e) Terms and Election Dates: All directors shall hold office until their successor is elected. Except for adjustments that may be made by the Board from time-to-time to maintain or create staggered terms upon any increase or decrease in the authorized number of directors, the term of office for Founding Directors, Industry Directors, and At-Large Directors shall be two (2) years and shall run from January 1 to December 31 of the second calendar year after election. Elections of directors whose terms are expiring in any calendar year shall be held as soon as practicable following the commencement of the membership year. Unless elected by written ballot pursuant to Section 4.9, the positions of directors then expiring shall be filled and elections held at the annual meeting of members called for such purpose. The Board of Directors may issue resolutions establishing procedures governing elections of directors, provided that those resolutions are consistent with these Bylaws and the Articles.
+(e) Observers: Each director shall have the right to designate a single observer to attend Board of Directors meetings when such director is unable to be present. However, the director shall provide prior notice to the Chairman of the Board and the Chairman approves the request. Such a request shall not be unreasonably denied. An observer attending in place of a director shall have the right to fully participate in the general session, but may not vote on or put forth any motion. Notwithstanding the foregoing, an Observer may vote by proxy if approved by the Board in advance.
+
+(f) Terms and Election Dates: All directors shall hold office until their successor is elected. Except for adjustments that may be made by the Board from time-to-time to maintain or create staggered terms upon any increase or decrease in the authorized number of directors, the term of office for Founding Directors, Industry Directors, and At-Large Directors shall be two (2) years and shall run from January 1 to December 31 of the second calendar year after election. Elections of directors whose terms are expiring in any calendar year shall be held as soon as practicable following the commencement of the membership year. Unless elected by written ballot pursuant to Section 4.9, the positions of directors then expiring shall be filled and elections held at the annual meeting of members called for such purpose. The Board of Directors may issue resolutions establishing procedures governing elections of directors, provided that those resolutions are consistent with these Bylaws and the Articles.
 
 Section 5.4	Vacancies: Board of Directors vacancies shall be handled in the following ways:
 
@@ -158,9 +166,11 @@ Section 5.4	Vacancies: Board of Directors vacancies shall be handled in the foll
 
 (b) Vacancies of a Founding Director resulting from resignation of the director or removal of the director shall be filled by election of a majority of the Founding Members.
 
-(c) Vacancies of a Industry Director resulting from resignation of the director or removal of the director shall be filled by an election of a majority of a quorum of Industry Members. 
+(c) Vacancies of an Industry Director resulting from resignation of the director or removal of the director shall be filled by an election of a majority of a quorum of Industry Members. 
 
 (d) Vacancies of an Individual Director resulting from resignation of the director or removal of the director shall be filled by an election of a majority of a quorum of the Individual Members. 
+
+(e) Vacancies of a Chapter Director resulting from resignation of the director or removal of the director shall be filled by an election of a majority of a quorum of the Chapter Members.
 
 Notwithstanding the foregoing, if these Bylaws are amended to expand the number of directors representing a membership class, the Board of Directors may appoint an interim director representing such class until the members of such class elect a director. Each director shall hold office until his or her successor is elected. A vacancy shall be deemed to exist in the following situations:
 
