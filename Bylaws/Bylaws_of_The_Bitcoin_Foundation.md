@@ -377,8 +377,8 @@ Membership Dues Schedule (effective July 23, 2012)
 | Industry Members (Silver) | 500BTC per annum
 | Industry Members (Gold) | 2,500BTC per annum
 | Industry Members (Platinum) | 10,000BTC per annum
-| Individual Members | 2.5BTC per annum
-| Individual Members  (Lifetime Membership) | 25BTC one-time
+| Individual Members | .25BTC per annum
+| Individual Members  (Lifetime Membership) | 2.5BTC one-time
 
 
 
